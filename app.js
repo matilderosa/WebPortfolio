@@ -10,6 +10,6 @@ app.get("/", function(req, res){
     res.render("landing");
 });
 
-app.listen(3000, function(){
+app.listen(process.env.PORT, process.env.ID, function(){
     console.log("server has started");
 });
