@@ -1,0 +1,197 @@
+
+/*MAIN*/
+/*=========================*/
+body {
+  font-family: "Raleway", "sans-serif";
+}
+
+.header, .about, i {
+  background: #3b3738;
+}
+
+.intro {
+
+min-height: 70vh;
+background: #3b3738;
+}
+
+.about {
+
+min-height: 40vh;
+background: #7E8F7C;
+padding-top: 40px;
+}
+
+.work {
+  min-height: 50vh;
+  padding-top: 40px;
+}
+
+.work, .thumbnail {
+background-color: #FDF3E7;
+}
+
+.skills {
+  min-height: 50vh;
+  padding-top: 40px;
+  background: #3b3738;
+}
+/*#984B43*/
+/*#233237*/
+
+
+/*CONSOLE*/
+/*=====================*/
+.hidden {
+  opacity:0;
+}
+.console-container {
+
+  /*font-family:Khula;*/
+  font-size:4em;
+  text-align:center;
+  display:block;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  margin:auto;
+  width: 100%;
+}
+.console-underscore {
+  display:inline-block;
+  position:relative;
+  top:-0.14em;
+  left:10px;
+}
+
+.white {
+  color: #FDF3E7;
+}
+
+.dark {
+  color: #3b3738;
+}
+
+.green {
+  color: #7E8F7C;
+}
+
+.red {
+  color: #984B43;
+}
+
+#textprojects {
+  color: #3b3738;
+}
+
+.textskills {
+  padding-bottom: 10px;
+  color: #FDF3E7;
+}
+
+
+
+
+/*IMAGES*/
+/*=======================*/
+.pic {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  margin-top: 20px;
+  border: #3b3738 solid 2px;
+
+}
+
+.adjust {
+  height: 100%;
+  width: 100%;
+}
+
+.thumbnail {
+  margin-top: 40px;
+  padding: 0px;
+  border: none;
+}
+
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  margin-top: 150px;
+  font-weight: bold;
+}
+
+.proj-img {
+  border-radius: 10px;
+  background-color: rgb(34,34,34);
+}
+
+
+.header {
+  min-height: 30vh;
+  background-color: #3b3738;
+}
+
+/*ICONS*/
+/*=======================*/
+.fa {
+  font-size: 4em;
+  color: rgb(34,34,34);
+  padding: 0;
+  margin:0;
+  border: none;
+}
+
+.fa:hover {
+  color: #984B43;
+  font-size: 5em;
+}
+
+.fa-chevron-down {
+  padding-top: 50px;
+}
+
+.fa-chevron-up {
+  padding-bottom: 50px;
+}
+
+
+.button-down {
+  text-align: center;
+}
+
+.animation {
+  text-align: center;
+  background-color: #18121e;
+}
+
+.span {
+  text-align: center;
+}
+
+.blabel {
+  color: #7E8F7C;
+}
+
+
+
+.wraptext p {
+  position: absolute;
+}
+
+button {
+  background-color: #984B43;
+}
+
+
+
+.skilltitle {
+    padding-bottom: 10px;
+  color: #FDF3E7;
+}
+
+
